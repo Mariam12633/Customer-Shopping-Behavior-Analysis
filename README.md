@@ -1,4 +1,4 @@
-# Customer-Shopping-Behavior-Analysis
+
 # Customer Shopping Behavior Analysis
 
 ## Project Overview
@@ -29,3 +29,7 @@ The analysis examines customer spending, popular products, subscriptions, discou
 - Improve customer loyalty.
 - Optimize discount strategies.
 - Promote popular and highly rated products.
+
+## Dashbord
+<img width="653" height="370" alt="image" src="https://github.com/user-attachments/assets/813f7767-e382-4eda-9207-0278aabf112d" />
+
